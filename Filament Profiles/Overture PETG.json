@@ -1,0 +1,13 @@
+{
+    "filament_max_volumetric_speed": [
+        "21.125"
+    ],
+    "filament_settings_id": [
+        "Overture PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Overture PETG",
+    "version": "1.8.0.13"
+}

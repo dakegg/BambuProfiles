@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "Inland ABS (Glow in the Dark)"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Inland ABS (Glow in the Dark)",
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Hatchbox PLA"
+    ],
+    "filament_vendor": [
+        "Hatchbox"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Hatchbox PLA",
+    "version": "1.8.0.13"
+}

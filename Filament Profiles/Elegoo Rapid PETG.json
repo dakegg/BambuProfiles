@@ -1,0 +1,31 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "27"
+    ],
+    "filament_settings_id": [
+        "Elegoo Rapid PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Elegoo Rapid PETG",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "245"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "1.8.0.13"
+}

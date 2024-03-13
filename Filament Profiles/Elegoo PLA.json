@@ -1,0 +1,22 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "13"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA",
+    "pressure_advance": [
+        "0.016"
+    ],
+    "version": "1.8.0.13"
+}

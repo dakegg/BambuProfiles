@@ -1,0 +1,28 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_max_volumetric_speed": [
+        "22.5"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA+"
+    ],
+    "filament_vendor": [
+        "Sunlu"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA+",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "1.7.0.18"
+}

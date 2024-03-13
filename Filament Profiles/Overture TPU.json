@@ -1,0 +1,30 @@
+{
+    "filament_density": [
+        "1.111"
+    ],
+    "filament_max_volumetric_speed": [
+        "2"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Overture TPU"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "name": "Overture TPU",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.7.0.10"
+}
